@@ -1,0 +1,31 @@
+body{
+	background:#ccc;
+}
+.box{
+	width: 500px;
+	height: 570px;
+	float: left;
+	margin-left: 300px;
+	background-image: url(../image/pink.jpg);
+}
+p{
+	width: 180px;
+	word-spacing: 5px;
+	margin-left: 50px;
+	text-indent: 10px;
+	float: left;
+	color: green;
+}
+.text{
+		width: 150px;
+		height: 80px;
+		position: fixed;
+		right: 100px;
+		bottom: 300px;
+		font-size: 40px;
+		text-align: center;
+		line-height: 80px;
+		border-radius: 20px;
+		transform: rotate(50deg);
+		background-color: pink;
+	}

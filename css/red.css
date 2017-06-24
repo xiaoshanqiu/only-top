@@ -1,0 +1,30 @@
+body{
+	background:pink;
+}
+.box{
+	width: 500px;
+	height: 570px;
+	float: left;
+	margin-left: 200px;
+	background-image: url(../image/red.jpg);
+}
+p{
+	width: 180px;
+	word-spacing: 5px;
+	margin-left: 50px;
+	text-indent: 10px;
+	float: left;
+}
+.text{
+	width: 150px;
+	height: 80px;
+	position: fixed;
+	right: 100px;
+	bottom: 300px;
+	font-size: 40px;
+	text-align: center;
+	line-height: 80px;
+	border-radius: 20px;
+	transform: rotate(50deg);
+	background-color: yellow;
+}
